@@ -1,4 +1,3 @@
-#require 'using'
 require 'spec_helper'
 
 class Resource
@@ -41,5 +40,4 @@ module KernelMethod
 	end
 
 end
-
 
